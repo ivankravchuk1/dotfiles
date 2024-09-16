@@ -1,0 +1,29 @@
+{
+  "CreateDateTime": "2022-11-16 09:49:54Z",
+  "Version": "v0.64.0",
+  "UpdatedFiles": [
+    "\\settings.json",
+    "\\AlwaysOnTop\\settings.json",
+    "\\Awake\\settings.json",
+    "\\ColorPicker\\settings.json",
+    "\\FancyZones\\layout-hotkeys.json",
+    "\\FancyZones\\layout-templates.json",
+    "\\FancyZones\\settings.json",
+    "\\File Explorer\\settings.json",
+    "\\File Locksmith\\file-locksmith-settings.json",
+    "\\FindMyMouse\\settings.json",
+    "\\Image Resizer\\image-resizer-settings.json",
+    "\\Image Resizer\\settings.json",
+    "\\Keyboard Manager\\default.json",
+    "\\Keyboard Manager\\settings.json",
+    "\\MouseHighlighter\\settings.json",
+    "\\MousePointerCrosshairs\\settings.json",
+    "\\PowerRename\\power-rename-settings.json",
+    "\\PowerToys Run\\settings.json",
+    "\\Shortcut Guide\\settings.json",
+    "\\TextExtractor\\settings.json",
+    "\\Video Conference\\settings.json"
+  ],
+  "BackupSource": "KTR-AT-NB0166",
+  "UnchangedFiles": []
+}

@@ -1,0 +1,179 @@
+{
+  "remapKeys": {
+    "inProcess": [
+      {
+        "originalKeys": "9",
+        "newRemapKeys": "160"
+      },
+      {
+        "originalKeys": "223",
+        "newRemapKeys": "27"
+      },
+      {
+        "originalKeys": "160",
+        "newRemapKeys": "9"
+      },
+      {
+        "originalKeys": "20",
+        "newRemapKeys": "8"
+      },
+      {
+        "originalKeys": "165",
+        "newRemapKeys": "161"
+      },
+      {
+        "originalKeys": "93",
+        "newRemapKeys": "36"
+      },
+      {
+        "originalKeys": "27",
+        "newRemapKeys": "35"
+      }
+    ]
+  },
+  "remapShortcuts": {
+    "global": [
+      {
+        "originalKeys": "161;8",
+        "newRemapKeys": "46"
+      },
+      {
+        "originalKeys": "161;48",
+        "newRemapKeys": "260;48"
+      },
+      {
+        "originalKeys": "161;49",
+        "newRemapKeys": "260;49"
+      },
+      {
+        "originalKeys": "161;50",
+        "newRemapKeys": "260;50"
+      },
+      {
+        "originalKeys": "161;51",
+        "newRemapKeys": "260;51"
+      },
+      {
+        "originalKeys": "161;52",
+        "newRemapKeys": "260;52"
+      },
+      {
+        "originalKeys": "161;53",
+        "newRemapKeys": "260;53"
+      },
+      {
+        "originalKeys": "161;54",
+        "newRemapKeys": "260;54"
+      },
+      {
+        "originalKeys": "161;55",
+        "newRemapKeys": "260;55"
+      },
+      {
+        "originalKeys": "161;56",
+        "newRemapKeys": "260;56"
+      },
+      {
+        "originalKeys": "161;57",
+        "newRemapKeys": "260;57"
+      },
+      {
+        "originalKeys": "161;65",
+        "newRemapKeys": "109"
+      },
+      {
+        "originalKeys": "161;67",
+        "newRemapKeys": "160;189"
+      },
+      {
+        "originalKeys": "161;68",
+        "newRemapKeys": "27"
+      },
+      {
+        "originalKeys": "161;69",
+        "newRemapKeys": "165;51"
+      },
+      {
+        "originalKeys": "161;70",
+        "newRemapKeys": "9"
+      },
+      {
+        "originalKeys": "161;71",
+        "newRemapKeys": "164;9"
+      },
+      {
+        "originalKeys": "161;72",
+        "newRemapKeys": "37"
+      },
+      {
+        "originalKeys": "161;73",
+        "newRemapKeys": "160;56"
+      },
+      {
+        "originalKeys": "161;74",
+        "newRemapKeys": "40"
+      },
+      {
+        "originalKeys": "161;75",
+        "newRemapKeys": "38"
+      },
+      {
+        "originalKeys": "161;76",
+        "newRemapKeys": "39"
+      },
+      {
+        "originalKeys": "161;77",
+        "newRemapKeys": "13"
+      },
+      {
+        "originalKeys": "161;79",
+        "newRemapKeys": "160;57"
+      },
+      {
+        "originalKeys": "161;80",
+        "newRemapKeys": "160;48"
+      },
+      {
+        "originalKeys": "161;81",
+        "newRemapKeys": "160;49"
+      },
+      {
+        "originalKeys": "161;82",
+        "newRemapKeys": "160;52"
+      },
+      {
+        "originalKeys": "161;83",
+        "newRemapKeys": "187"
+      },
+      {
+        "originalKeys": "161;84",
+        "newRemapKeys": "160;53"
+      },
+      {
+        "originalKeys": "161;85",
+        "newRemapKeys": "160;55"
+      },
+      {
+        "originalKeys": "161;86",
+        "newRemapKeys": "107"
+      },
+      {
+        "originalKeys": "161;87",
+        "newRemapKeys": "161;50"
+      },
+      {
+        "originalKeys": "161;89",
+        "newRemapKeys": "160;54"
+      },
+      {
+        "originalKeys": "161;90",
+        "newRemapKeys": "160;220"
+      },
+      {
+        "originalKeys": "164;81",
+        "newRemapKeys": "164;115"
+      }
+    ],
+    "appSpecific": []
+  }
+}

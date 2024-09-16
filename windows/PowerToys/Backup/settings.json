@@ -1,0 +1,30 @@
+{
+  "download_updates_automatically": true,
+  "enabled": {
+    "AlwaysOnTop": false,
+    "Awake": false,
+    "ColorPicker": true,
+    "FancyZones": true,
+    "File Explorer": true,
+    "File Locksmith": true,
+    "FindMyMouse": false,
+    "Hosts": true,
+    "Image Resizer": false,
+    "Keyboard Manager": true,
+    "Measure Tool": true,
+    "MouseHighlighter": true,
+    "MousePointerCrosshairs": false,
+    "PowerRename": false,
+    "PowerToys Run": true,
+    "QuickAccent": false,
+    "Shortcut Guide": false,
+    "TextExtractor": true,
+    "Video Conference": false
+  },
+  "is_admin": true,
+  "is_elevated": true,
+  "run_elevated": true,
+  "startup": true,
+  "system_theme": "light",
+  "theme": "system"
+}

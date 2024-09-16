@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "ExtendedContextMenuOnly": false,
+  "MaxMRUSize": 10,
+  "MRUEnabled": true,
+  "PersistState": true,
+  "ReplaceText": "",
+  "SearchText": "",
+  "ShowIcon": true,
+  "UseBoostLib": false
+}
